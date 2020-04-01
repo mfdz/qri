@@ -27,6 +27,7 @@ https://qri.io
 
 Feedback, questions, bug reports, and contributions are welcome!
 https://github.com/qri-io/qri/issues`,
+		BashCompletionFunction: bash_completion_func,
 	}
 
 	qriPath, ipfsPath := pf()
